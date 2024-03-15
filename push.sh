@@ -1,3 +1,3 @@
 git add .
-git commit -am "chenyangyang manhua commit"
+git commit -am "auto"
 git push origin main
